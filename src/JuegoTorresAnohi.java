@@ -32,3 +32,4 @@ public class JuegoTorresAnohi {
         moverDiscos(n - 1, auxiliar, destino, origen);
     }
 }
+
